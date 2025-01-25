@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/D3243705/Documents/Unreal Projects/rubberduck_mark1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/D3243705/Documents/Unreal Projects/rubberduck_mark1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubble_mat.uasset",
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubble_widget.uasset",
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubbleB_W.uasset",
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/hue.uasset"
 			]
 		}
 	]

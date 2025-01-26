@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/D3243705/Documents/Unreal Projects/rubberduck_mark1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubble_mat.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubbleB_W.uasset",
@@ -29,6 +30,27 @@
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/JW/SK9G8V269FR5ESN79LZNR8.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/2025-01-26_10-42-47.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/2025-01-26_10-42-47_Cue.uasset",
+=======
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/RenderMaterialPlayer2.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/RenderMaterialPlayer1.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/m_SolidMaster.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/mi_SolidYellow.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/mi_SolidOrange.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/Treads-without-Duck.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/Duck-Without-Treads.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BP_BubblePickup.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BPW_BubbleScreenPlayer1.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BPW_BubbleScreenPlayer2.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/26/CISBIPUL7OWDMT2CVS05MW.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/XG/40FIUG5BX48YUW6MSPYOYW.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/mi_SolidBrown.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Player2.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BPW_Title.uasset",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/title.umap",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BPW_countdown.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/rubberduck/rubberduck_mark1/Content/race_track/mod1/Module-1_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/rubberduck/rubberduck_mark1/Content/race_track/mod1/Module-1_DefaultMaterial_Normal.uasset",
 				"C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/rubberduck/rubberduck_mark1/Content/race_track/mod1/Module-1_DefaultMaterial_BaseColor.uasset",
@@ -166,6 +188,7 @@
 				"C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/duck2/Duck-Without-Treads-Updated_Material__2_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/nicole/OneDrive - Teesside University/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/duck1/Duck-Without-Treads-Updated_Material__2_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/UK/Y81SLBNG64HIBX7MACT1CS.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/RenderMaterialPlayer2.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/RenderMaterialPlayer1.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/m_SolidMaster.uasset",
@@ -179,6 +202,10 @@
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/BPW_BubbleScreenPlayer2.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/26/CISBIPUL7OWDMT2CVS05MW.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/XG/40FIUG5BX48YUW6MSPYOYW.uasset",
+=======
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bath_track.umap",
+				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/race_track/racetrack_Mat.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/9I/HUP0KF6T7S1F9SCAP6G9WY.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/UK/Y81SLBNG64HIBX7MACT1CS.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/TF/5LHZWXMAWP5GXGF0IR96CC.uasset",
@@ -190,8 +217,6 @@
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/YM/G8E2IYSTQWGPEC7PKY0274.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/7X/DB25BS8IEO0QRS3OQ6SUM0.uasset",
 				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/VC/M68VQWG4PHRYSV8BZ083GS.uasset",
-				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/art/mi_SolidBrown.uasset",
-				"C:/Users/D3370029/Documents/GitHub/rubberduck/rubberduck_mark1/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Player2.uasset",
 				"C:/Users/D3243705/Documents/GitHub/rubberduck/rubberduck_mark1/Content/bubble_screen/bubble_widget.uasset"
 			]
 		}
